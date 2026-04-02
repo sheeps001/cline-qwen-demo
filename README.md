@@ -24,7 +24,6 @@
 
 ## 📁 Структура проекта
 
-```markdown
 ```bash
 cline-qwen-demo/
 ├── project/
@@ -76,7 +75,6 @@ node src/index.js
 ##🎬 Видео-демонстрация
 
 Ссылка на видео:
-```markdown
 [Смотреть видео](https://disk.yandex.ru/d/_A_67JoJdqIh3Q)
 
 ⸻
