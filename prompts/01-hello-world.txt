@@ -1,0 +1,1 @@
+Напиши "Hello, World!" на JavaScript

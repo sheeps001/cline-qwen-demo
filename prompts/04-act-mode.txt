@@ -1,0 +1,2 @@
+Создай структуру для REST API на Node.js с папками src, routes, utils, tests.
+Создай файл src/server.js и добавь базовый Express сервер.

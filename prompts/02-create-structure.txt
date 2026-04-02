@@ -1,0 +1,11 @@
+Создай структуру проекта для REST API на Node.js.
+
+Нужны папки:
+- src
+- routes
+- utils
+- tests
+
+И файлы:
+- src/index.js
+- .env.example
